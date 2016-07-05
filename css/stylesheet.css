@@ -1,0 +1,25 @@
+.text {
+  width: 100%;
+  max-width: 500px;
+}
+
+.list {
+  width: 100%;
+  max-width: 750px;
+}
+
+.list li {
+  margin-bottom: 20px;
+}
+
+.list strong {
+  display: block;
+  margin-bottom: 6px;
+}
+
+.list code {
+  display: block;
+  padding: 10px;
+  margin-bottom: 6px;
+  background: #f6f6f6;
+}
